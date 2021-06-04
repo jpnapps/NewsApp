@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hlit News App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_info_fragment">Hello Info  fragment</string>
+    <string name="hello_news_fragment">Hello News  fragment</string>
+    <string name="hello_saved_fragment">Hello Saved  fragment</string>
+    <string name="small_text">Heloo</string>
+</resources>
